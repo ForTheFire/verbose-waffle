@@ -1,7 +1,10 @@
 {
   "version": 1,
-  "exported_at": "2026-06-09T22:18:31.859734",
+  "exported_at": "2026-06-09T22:37:46.396979",
   "data": {
+    "github_repo": "ForTheFire/verbose-waffle",
+    "github_file_path": "streamapp_data.json",
+    "auto_sync": true,
     "continue_watching": [
       "{\"id\":157336,\"title\":\"Interstellar\",\"posterPath\":\"/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg\",\"backdropPath\":\"/2ssWTSVklAEc98frZUQhgtGHx7s.jpg\",\"overview\":\"The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.\",\"releaseDate\":\"2014-11-05\",\"voteAverage\":8.477,\"mediaType\":\"movie\",\"numberOfSeasons\":null}",
       "{\"id\":76479,\"title\":\"The Boys\",\"posterPath\":\"/in1R2dDc421JxsoRWaIIAqVI2KE.jpg\",\"backdropPath\":\"/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg\",\"overview\":\"A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.\",\"releaseDate\":\"2019-07-25\",\"voteAverage\":8.455,\"mediaType\":\"tv\",\"numberOfSeasons\":5}",
@@ -14,8 +17,6 @@
     "duration_watchtime_tv_76479_1_1": 3775,
     "watchtime_movie_157336": 32,
     "duration_watchtime_movie_157336": 10144,
-    "github_repo": "verbose-waffle",
-    "github_file_path": "streamapp_data.json",
-    "auto_sync": true
+    "last_sync": "2026-06-09T22:36:56.695200"
   }
 }
